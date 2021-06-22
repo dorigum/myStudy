@@ -3,6 +3,7 @@
 // 2차원 배열 + 중첩 반복문
 // 7 * 7 = 49
 
+#include <stdio.h>
 int main(){
     int a[9][9];
 
